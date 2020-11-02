@@ -39,7 +39,7 @@ Setup / How to use / Run Locally. List of steps of how to install and run the ap
 To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 ```
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/AndrewXeroudakis/Forest-3D-Environment-Study.git
 # Go into the repository
 cd electron-markdownify
 # Install dependencies
