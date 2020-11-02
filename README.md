@@ -1,5 +1,5 @@
 # Forest-3D-Environment-Study
-### A unity3d project to practice setting up a forest environment.
+### A Unity3D project to practice setting up a forest environment.
 
 gif
 
@@ -24,7 +24,7 @@ List of criteria
 Description of what technologies you used (version) to make this app and why did you use each one?
 List of technologies that I used to make the app.
 Project is created with:
-* Unity 2019.4.11f1
+* [Unity3D 2019.4.11f1](https://unity3d.com/get-unity/download/archive)
 * Visual Studio version?
 * C# version?
 
