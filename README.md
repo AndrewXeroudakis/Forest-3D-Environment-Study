@@ -1,7 +1,7 @@
 # Forest-3D-Environment-Study
-### A Unity3D project to practice setting up a forest environment.
+### A Unity3D project to practice setting up a 3D forest environment.
 
-gif
+![Alt Text](https://media.giphy.com/media/203mDs4rNyBSS7DWZJ/giphy.gif)
 
 ## Table of contents
 * [Task](#task)
