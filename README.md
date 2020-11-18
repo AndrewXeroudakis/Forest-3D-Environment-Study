@@ -6,7 +6,6 @@
 ## Table of contents
 * [Task](#task)
 * [Technologies](#technologies)
-* [Design](#design)
 * [How to use](#how-to-use)
 * [Installation](#installation)
 * [License](#license)
