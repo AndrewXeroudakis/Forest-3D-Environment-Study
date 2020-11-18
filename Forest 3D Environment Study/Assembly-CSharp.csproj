@@ -81,6 +81,15 @@
     <Compile Include="Assets\GitIgnore\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
     <Compile Include="Assets\GitIgnore\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
     <Compile Include="Assets\GitIgnore\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+    <Compile Include="Assets\GitIgnore\Standard Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
+    <Compile Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
+    <Compile Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water\Scripts\GerstnerDisplace.cs" />
+    <Compile Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
+    <Compile Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />
+    <Compile Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
+    <Compile Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
+    <Compile Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
+    <Compile Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
     <Compile Include="Assets\GitIgnore\Standard Assets\Utility\ActivateTrigger.cs" />
     <Compile Include="Assets\GitIgnore\Standard Assets\Utility\AlphaButtonClickMask.cs" />
     <Compile Include="Assets\GitIgnore\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
@@ -111,9 +120,11 @@
     <None Include="Assets\GitIgnore\Environment\Rocks and Boulders 2\Shaders\Blend SM2.shader" />
     <None Include="Assets\GitIgnore\Environment\Conifers [BOTD]\CTI Runtime Components\Resources\CTI_Camera-DepthNormalTexture_301.shader" />
     <None Include="Assets\GitIgnore\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
     <None Include="Assets\GitIgnore\Environment\Conifers [BOTD]\CTI Runtime Components\Resources\CTI_Internal-DeferredShading.shader" />
     <None Include="Assets\GitIgnore\Environment\Conifers [BOTD]\Getting started.txt" />
     <None Include="Assets\GitIgnore\Environment\Rocks and Boulders 2\Shaders\Blend SM3.shader" />
+    <None Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
     <None Include="Assets\GitIgnore\Environment\Conifers [BOTD]\CTI Runtime Components\Shaders\Includes\CTI_BillboardVertex_301.cginc" />
     <None Include="Assets\GitIgnore\Environment\Rocks and Boulders 2\Shaders\shader info.txt" />
     <None Include="Assets\GitIgnore\Environment\Conifers [BOTD]\CTI Runtime Components\Shaders\Includes\CTI_TranslucentLighting_301.cginc" />
@@ -121,8 +132,11 @@
     <None Include="Assets\GitIgnore\Environment\Conifers [BOTD]\CTI Runtime Components\Resources\CTI_Internal-DeferredReflections.shader" />
     <None Include="Assets\GitIgnore\Environment\Conifers [BOTD]\CTI Runtime Components\Shaders\Includes\CTI_indirect.cginc" />
     <None Include="Assets\GitIgnore\Environment\Conifers [BOTD]\CTI Runtime Components\Shaders\CTI_LOD_Leaves_301.shader" />
+    <None Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
+    <None Include="Assets\GitIgnore\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
     <None Include="Assets\GitIgnore\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\GitIgnore\Environment\Conifers [BOTD]\CTI Runtime Components\Shaders\Includes\CTI_Builtin4xTreeLibraryTumbling_301.cginc" />
+    <None Include="Assets\GitIgnore\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -305,6 +319,12 @@
     </Reference>
     <Reference Include="UnityEditor">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
