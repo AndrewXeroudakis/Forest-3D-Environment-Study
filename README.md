@@ -25,8 +25,9 @@ Description of what technologies you used (version) to make this app and why did
 List of technologies that I used to make the app.
 Project is created with:
 * [Unity3D 2019.4.11f1](https://unity3d.com/get-unity/download/archive)
-* Visual Studio version?
-* C# version?
+* Visual Studio 2019?
+* C# 8.0
+* .NET Core 3.0
 
 ## Design
 Description of what kind of look did you choose and why?
