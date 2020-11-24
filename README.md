@@ -30,11 +30,10 @@ Project is created with:
 * .NET Core 3.0
 
 ## How to use
-The player can move around using standard FPS movement. It has a small forest area to explore.
+There is a small forest area to explore. The player can move around using standard WASD movement and a mouse to look around.
 
 ## Installation
-Setup / How to use / Run Locally. List of steps of how to install and run the application locally (on their computer)).
-To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
+From your command line:
 ```
 # Clone this repository
 $ git clone https://github.com/AndrewXeroudakis/Forest-3D-Environment-Study.git
